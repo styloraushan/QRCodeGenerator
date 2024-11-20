@@ -4,7 +4,7 @@
 
 
 
-A simple and easy-to-use **QR Code Generator** built with **React.js**. This application allows users to generate QR codes for any given text or URL. The app is deployed and accessible via **Netlify**.
+A simple and easy-to-use **QR Code Generator** built with **Html and javascript**. This application allows users to generate QR codes for any given text or URL. The app is deployed and accessible via **Netlify**.
 
 ## Demo
 Check out the live demo of the app here:  
